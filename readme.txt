@@ -1,0 +1,9 @@
+springmvc1的maven3版本
+这个项目是基于spring2.5.6的xml配置来进行注入和事务管理的
+
+
+hibernate的core/common-annotation/annotation版本和springmvc1项目的完全一致
+注意：
+hibernate的3个jar是手动添加到本地的maven repo中的，从repo.maven.apache.org中是下载不到符合compatible matrix的core和对应的annotation的jar的。
+
+
